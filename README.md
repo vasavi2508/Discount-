@@ -249,9 +249,9 @@ python retail_billing.py
 
 ## 14. Author Details
 
-- **Name:** Your Name
-- **Roll Number:** Your Roll Number
-- **Branch:** Your Branch
-- **Section:** Your Section
+- **Name:** v.v.s.s.gayathri
+- **Roll Number:** N26V01A0388
+- **Branch:** CSE
+- **Section:** Section-5
 - **Subject:** Python Programming
-- **Project:** Python Activity-Based Learning
+- **Project:** Retail billing
